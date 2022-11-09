@@ -1,0 +1,25 @@
+.backGround {
+    background-color: aqua;
+    color: aqua;
+    flex: 100%;
+    display: block;
+    width: 1400px;
+    height: 650px;
+
+}
+
+.quoteArea {
+
+    background-color: rgb(39, 46, 48);
+    
+    border-radius: 3px;
+    display: inline-table;
+    justify-content: center;
+    top: 50%;
+    left: 40%;
+    height: 70px;
+    width: 300px;
+    position: absolute;
+
+
+}
